@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vlSqd5RBql4kVCzI9VKPaUZTz7pnZbB1fz2rH05G8vY=",
+  "Source": "PasswordHashing",
+  "BasePath": "_content/PasswordHashing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
